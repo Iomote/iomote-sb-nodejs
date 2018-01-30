@@ -1,6 +1,6 @@
 # Prerequisites
 
-* Install nodejs from nodejs.com
+* Install nodejs from [nodejs.org](https://nodejs.org)
 
 * Install azure modules on console from the code folder
 `npm install azure`
